@@ -1,3 +1,4 @@
+
 public class Collegename {
     public static void main (String[]args){
         String CollegeName = "SAIT";
